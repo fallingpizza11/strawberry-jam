@@ -4,4 +4,6 @@ public
 
 .env
 *.swp
+.tool-versions
 package-lock.json
+
